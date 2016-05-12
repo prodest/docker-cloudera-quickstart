@@ -6,6 +6,9 @@ Docker Cloudera Quick Start Image
 Cloudera Hadoop 5 (CDH5)
 
 
+Original work from [Caio Quirino](https://github.com/caioquirino)
+
+
 Now you can run the Cloudera Quick Start image without all the overhead of a Virtual Machine. Just use docker-cloudera-quickstart Image.
 
 
